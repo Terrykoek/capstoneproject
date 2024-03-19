@@ -21,6 +21,7 @@ nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: rgb(172, 230, 243);
 }
 
 nav ul li {
@@ -34,7 +35,6 @@ nav ul li a{
 
 nav ul li a:hover{
   text-decoration: underline solid #495E57;
-  
 }
 
 .menu-icon {
@@ -72,7 +72,7 @@ nav ul li a:hover{
 /* header section */
 
 .header {
-  background-color: #495e57;
+  background-color: #4cb7c6;
   padding: 40px 0;
 }
 
@@ -85,7 +85,7 @@ position: relative;
 
 h2 {
   color: #F4CE14;
-  font-size: 40px;
+  font-size: 55px;
 }
 
 h3 {
@@ -131,6 +131,7 @@ form, .comfirm{
 
 .formField{
   padding: 50px 20px;
+  background-color: rgb(254, 255, 240);
 }
 
 input, label{
@@ -222,6 +223,7 @@ footer section{
   display: flex;
   justify-content: space-between;
   align-items: start;
+  background-color: rgb(185, 182, 182);
 }
 
 .company-info img{

@@ -7,7 +7,7 @@ const Footer = () => {
             <section>
             <div className="company-info">
                 <img src={small_logo} alt=""/>
-                <p>We are a family owned Mediterraneran restaurant, focused on traditional recipes servred with a modern twist.</p>
+                <p>We are a family owned Mediterraneran restaurant located in Singapore road, focused on traditional recipes servred with a modern twist.</p>
             </div>
             <div>
                 <h3>Important Links</h3>
@@ -23,8 +23,8 @@ const Footer = () => {
             <div>
                 <h3>Contact</h3>
             <ul>
-            <li>Address: <br/> 123 Town Street, Chicago</li>
-                <li>Phone: <br/> +00 123 456 789</li>
+            <li>Address: <br/> Singapore Road</li>
+                <li>Phone: <br/> +65 93746283</li>
                 <li>Email: <br/> little@lemon.com</li>
             </ul>
             </div>

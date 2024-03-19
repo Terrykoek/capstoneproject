@@ -7,11 +7,11 @@ const Header = () => {
     <header className="header">
       <section>
         <div className="banner">
-          <h2>Little Lemon</h2>
-          <h3>Chicago</h3>
+          <h2>Little Lemon restaurant</h2>
+          <h3>Singapore road</h3>
           <p>
-            We are a family owned Mediterraneran restaurant, focused on
-            traditional recipes servred with a modern twist.
+            We are a family owned Mediterraneran restaurant located on Singapore road, focused on
+            traditional recipes servred with a modern twist to fill your tummies!
           </p>
           <Link to="/booking">
             <button aria-label="On Click">Reserve Table</button>
